@@ -28,7 +28,7 @@ Simulated using Xilinx Vivado.
 
 ### Waveform Output:
 
-![Waveform](waveform_screenshot.png)
+![Waveform](https://github.com/Git-gautham/Clock_divider/blob/main/waveform_screenshot.png)
 
 ## ▶️ How to Run
 
