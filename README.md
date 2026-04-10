@@ -28,7 +28,7 @@ Simulated using Xilinx Vivado.
 
 ### Waveform Output:
 
-![Waveform](sim/waveform.png)
+![Waveform](waveform_screenshot.png)
 
 ## ▶️ How to Run
 
